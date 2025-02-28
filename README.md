@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Pavithran200412/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Pavithran200412/Leetcode/tree/master/0066-plus-one) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pavithran200412/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3429-special-array-i](https://github.com/Pavithran200412/Leetcode/tree/master/3429-special-array-i) |
 ## Binary Search
 |  |
 | ------- |
