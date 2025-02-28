@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Pavithran200412/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Pavithran200412/Leetcode/tree/master/0067-add-binary) |
 ## String
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pavithran200412/Leetcode/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Pavithran200412/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
