@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pavithran200412/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Pavithran200412/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Pavithran200412/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Pavithran200412/Leetcode/tree/master/0069-sqrtx) |
 | [2998-count-symmetric-integers](https://github.com/Pavithran200412/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pavithran200412/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Pavithran200412/Leetcode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
