@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Pavithran200412/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Pavithran200412/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/Pavithran200412/Leetcode/tree/master/0135-candy) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pavithran200412/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pavithran200412/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3429-special-array-i](https://github.com/Pavithran200412/Leetcode/tree/master/3429-special-array-i) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pavithran200412/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Pavithran200412/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
