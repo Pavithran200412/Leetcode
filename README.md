@@ -26,6 +26,7 @@
 | [0020-valid-parentheses](https://github.com/Pavithran200412/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pavithran200412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Pavithran200412/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Pavithran200412/Leetcode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Pavithran200412/Leetcode/tree/master/0214-shortest-palindrome) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pavithran200412/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pavithran200412/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -66,6 +67,7 @@
 | [0027-remove-element](https://github.com/Pavithran200412/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pavithran200412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Pavithran200412/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pavithran200412/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Pavithran200412/Leetcode/tree/master/0202-happy-number) |
 ## String Matching
