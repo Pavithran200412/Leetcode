@@ -4,7 +4,7 @@ class Solution {
             for (int j = i; j < nums.length; j ++) {
                 int total = nums[j] + nums[j - i];
                 if(target == total){
-                    return new int[]{j , j - i};
+                    return new int[]{j - i , j};
                 }
             }
         }
