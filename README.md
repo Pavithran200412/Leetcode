@@ -51,6 +51,7 @@
 | [0066-plus-one](https://github.com/Pavithran200412/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Pavithran200412/Leetcode/tree/master/0135-candy) |
+| [0890-lemonade-change](https://github.com/Pavithran200412/Leetcode/tree/master/0890-lemonade-change) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pavithran200412/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pavithran200412/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3429-special-array-i](https://github.com/Pavithran200412/Leetcode/tree/master/3429-special-array-i) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Pavithran200412/Leetcode/tree/master/0135-candy) |
+| [0890-lemonade-change](https://github.com/Pavithran200412/Leetcode/tree/master/0890-lemonade-change) |
 ## Rolling Hash
 |  |
 | ------- |
