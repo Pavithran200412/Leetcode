@@ -12,6 +12,7 @@
 | [0067-add-binary](https://github.com/Pavithran200412/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Pavithran200412/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pavithran200412/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Pavithran200412/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pavithran200412/Leetcode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/Pavithran200412/Leetcode/tree/master/1013-fibonacci-number) |
 | [2998-count-symmetric-integers](https://github.com/Pavithran200412/Leetcode/tree/master/2998-count-symmetric-integers) |
@@ -51,6 +52,7 @@
 | [0066-plus-one](https://github.com/Pavithran200412/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Pavithran200412/Leetcode/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/Pavithran200412/Leetcode/tree/master/0189-rotate-array) |
 | [0890-lemonade-change](https://github.com/Pavithran200412/Leetcode/tree/master/0890-lemonade-change) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pavithran200412/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pavithran200412/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -71,6 +73,7 @@
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pavithran200412/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pavithran200412/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Pavithran200412/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pavithran200412/Leetcode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
