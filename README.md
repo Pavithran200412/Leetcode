@@ -53,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Pavithran200412/Leetcode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Pavithran200412/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Pavithran200412/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pavithran200412/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/Pavithran200412/Leetcode/tree/master/0890-lemonade-change) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pavithran200412/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -76,6 +77,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Pavithran200412/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Pavithran200412/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pavithran200412/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Pavithran200412/Leetcode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
