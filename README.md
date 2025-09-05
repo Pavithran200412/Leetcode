@@ -14,6 +14,7 @@
 | [0070-climbing-stairs](https://github.com/Pavithran200412/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pavithran200412/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pavithran200412/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Pavithran200412/Leetcode/tree/master/1013-fibonacci-number) |
 | [2998-count-symmetric-integers](https://github.com/Pavithran200412/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pavithran200412/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pavithran200412/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Pavithran200412/Leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Pavithran200412/Leetcode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Pavithran200412/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pavithran200412/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pavithran200412/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/Pavithran200412/Leetcode/tree/master/0890-lemonade-change) |
@@ -65,6 +68,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pavithran200412/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pavithran200412/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +118,7 @@
 | [0013-roman-to-integer](https://github.com/Pavithran200412/Leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pavithran200412/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Pavithran200412/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pavithran200412/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Enumeration
 |  |
@@ -136,6 +141,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
