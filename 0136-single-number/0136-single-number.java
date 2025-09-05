@@ -1,17 +1,11 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int count = 0;
-        int num = 0;
-        for(int i = 0; i < nums.length; i++){
-            num = nums[i];
-            count = 0;
-            for(int j = 0; j < nums.length; j++){
-                if(nums[j] == num)
-                count++;
+        Arrays.sort(nums);
+        for(int i = 0; i < nums.length - 1; i += 2){
+            if(nums[i] != nums[i + 1]){
+                return nums[i];
             }
-            if(count == 1)
-            return num;
         }
-        return num;
+        return nums[nums.length - 1];
     }
 }
