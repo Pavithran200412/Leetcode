@@ -57,6 +57,7 @@
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Pavithran200412/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Pavithran200412/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pavithran200412/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pavithran200412/Leetcode/tree/master/0283-move-zeroes) |
@@ -122,6 +123,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pavithran200412/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pavithran200412/Leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pavithran200412/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Pavithran200412/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Pavithran200412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Pavithran200412/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -169,9 +172,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pavithran200412/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Pavithran200412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
