@@ -190,4 +190,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pavithran200412/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Pavithran200412/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
