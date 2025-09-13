@@ -51,6 +51,7 @@
 | [0001-two-sum](https://github.com/Pavithran200412/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pavithran200412/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Pavithran200412/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pavithran200412/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Pavithran200412/Leetcode/tree/master/0053-maximum-subarray) |
@@ -85,6 +86,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pavithran200412/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pavithran200412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Pavithran200412/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Pavithran200412/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pavithran200412/Leetcode/tree/master/0125-valid-palindrome) |
