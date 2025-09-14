@@ -69,6 +69,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Pavithran200412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/Pavithran200412/Leetcode/tree/master/0890-lemonade-change) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pavithran200412/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pavithran200412/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pavithran200412/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3429-special-array-i](https://github.com/Pavithran200412/Leetcode/tree/master/3429-special-array-i) |
@@ -79,6 +80,7 @@
 | [0035-search-insert-position](https://github.com/Pavithran200412/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pavithran200412/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,15 +163,18 @@
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pavithran200412/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/Pavithran200412/Leetcode/tree/master/0135-candy) |
 | [0890-lemonade-change](https://github.com/Pavithran200412/Leetcode/tree/master/0890-lemonade-change) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -187,6 +192,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Pavithran200412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
