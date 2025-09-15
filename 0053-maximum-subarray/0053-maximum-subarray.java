@@ -23,16 +23,28 @@ class Solution {
         // }
         // return sums;
 
-        int currentSum = nums[0]; // Start with the first element
-        int maxSum = nums[0];     // Initialize maxSum with the first element
+        // int currentSum = nums[0]; 
+        // int maxSum = nums[0];   
 
-        // Traverse the array from the second element
-        for (int i = 1; i < nums.length; i++) {
-            // If currentSum is negative, reset to current element
-            currentSum = Math.max(nums[i], currentSum + nums[i]);
-            // Update maxSum if currentSum is greater
-            maxSum = Math.max(maxSum, currentSum);
+        // for (int i = 1; i < nums.length; i++) {
+        //     currentSum = Math.max(nums[i], currentSum + nums[i]);
+        //     maxSum = Math.max(maxSum, currentSum);
+        // }
+        // return maxSum;
+
+        int sum = 0;
+        int sums = Integer.MIN_VALUE;
+
+        for(int i = 0; i < nums.length; i++){
+            sum += nums[i];
+
+            if(sum > sums){
+                sums = sum;
+            }
+            if(sum < 0){
+                sum = 0;
+            }
         }
-        return maxSum;
+        return sums;
     }
 }
