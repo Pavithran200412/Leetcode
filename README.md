@@ -59,6 +59,7 @@
 | [0075-sort-colors](https://github.com/Pavithran200412/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithran200412/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Pavithran200412/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Pavithran200412/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Pavithran200412/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
@@ -131,6 +132,7 @@
 | [0001-two-sum](https://github.com/Pavithran200412/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pavithran200412/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pavithran200412/Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Pavithran200412/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pavithran200412/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Pavithran200412/Leetcode/tree/master/0202-happy-number) |
@@ -208,4 +210,8 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Pavithran200412/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Pavithran200412/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Pavithran200412/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pavithran200412/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
