@@ -32,6 +32,7 @@
 | [0067-add-binary](https://github.com/Pavithran200412/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Pavithran200412/Leetcode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Pavithran200412/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1078-remove-outermost-parentheses](https://github.com/Pavithran200412/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pavithran200412/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pavithran200412/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bit Manipulation
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pavithran200412/Leetcode/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Pavithran200412/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
