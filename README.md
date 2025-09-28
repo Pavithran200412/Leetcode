@@ -38,6 +38,7 @@
 | [0242-valid-anagram](https://github.com/Pavithran200412/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Pavithran200412/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Pavithran200412/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithran200412/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Pavithran200412/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pavithran200412/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pavithran200412/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -155,6 +156,7 @@
 | [0242-valid-anagram](https://github.com/Pavithran200412/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Pavithran200412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithran200412/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pavithran200412/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Enumeration
 |  |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithran200412/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pavithran200412/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Prefix Sum
 |  |
