@@ -36,6 +36,7 @@
 | [0205-isomorphic-strings](https://github.com/Pavithran200412/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Pavithran200412/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Pavithran200412/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Pavithran200412/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Pavithran200412/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Pavithran200412/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithran200412/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -155,6 +156,7 @@
 | [0205-isomorphic-strings](https://github.com/Pavithran200412/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pavithran200412/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Pavithran200412/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Pavithran200412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithran200412/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pavithran200412/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -186,6 +188,7 @@
 | [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pavithran200412/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pavithran200412/Leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Pavithran200412/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pavithran200412/Leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Pavithran200412/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pavithran200412/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pavithran200412/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Prefix Sum
@@ -247,4 +251,12 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Pavithran200412/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Pavithran200412/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Pavithran200412/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Pavithran200412/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
