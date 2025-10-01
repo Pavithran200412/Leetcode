@@ -9,7 +9,7 @@ class Solution {
         for(int i = 0; i < n; i++){
             sum = sum + nums[i];
             int remove = sum - k;
-            count += map.getOrDefault(remove, 0);
+            count = count + map.getOrDefault(remove, 0);
             map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
         return count;
