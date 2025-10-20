@@ -99,6 +99,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Pavithran200412/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pavithran200412/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/Pavithran200412/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pavithran200412/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pavithran200412/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3429-special-array-i](https://github.com/Pavithran200412/Leetcode/tree/master/3429-special-array-i) |
@@ -121,6 +122,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pavithran200412/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Pavithran200412/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/Pavithran200412/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Pavithran200412/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pavithran200412/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pavithran200412/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/Pavithran200412/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
