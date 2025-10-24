@@ -100,6 +100,7 @@
 | [0890-lemonade-change](https://github.com/Pavithran200412/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Pavithran200412/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pavithran200412/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pavithran200412/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Pavithran200412/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pavithran200412/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -125,6 +126,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Pavithran200412/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pavithran200412/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pavithran200412/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Pavithran200412/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/Pavithran200412/Leetcode/tree/master/2047-find-a-peak-element-ii) |
