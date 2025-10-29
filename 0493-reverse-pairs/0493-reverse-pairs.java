@@ -1,39 +1,55 @@
 class Solution {
+    int count;
     public int reversePairs(int[] nums) {
-        if (nums == null || nums.length == 0) return 0;
-        return mergeSort(nums, 0, nums.length - 1);
-    }
-
-    private int mergeSort(int[] nums, int left, int right) {
-        if (left >= right) return 0;
-
-        int mid = left + (right - left) / 2;
-        int count = mergeSort(nums, left, mid) + mergeSort(nums, mid + 1, right);
-        int j = mid + 1;
-        for (int i = left; i <= mid; i++) {
-            while (j <= right && (long) nums[i] > 2L * nums[j]) {
-                j++;
-            }
-            count += (j - (mid + 1));
-        }
-        merge(nums, left, mid, right);
+        count = 0;
+        mergesort(nums,0,nums.length-1);
         return count;
     }
+    public void mergesort(int[] nums, int si, int ei){
+        if(si>=ei)return;
+        int mid = si + (ei - si)/2;
 
-    private void merge(int[] nums, int left, int mid, int right) {
-        List<Integer> temp = new ArrayList<>();
-        int i = left, j = mid + 1;
+        mergesort(nums,si,mid);
+        mergesort(nums,mid+1,ei);
+        merge(nums,si,mid,ei);
+    }
 
-        while (i <= mid && j <= right) {
-            if (nums[i] <= nums[j]) temp.add(nums[i++]);
-            else temp.add(nums[j++]);
+    public void merge(int[]nums, int si, int mid, int ei){
+        int right = mid+1;
+
+        for(int left = si; left<=mid; left++){
+            while(right<=ei && (long)nums[left] > 2L * nums[right])right++;
+            
+            count += right - (mid+1);
+                
+            
         }
 
-        while (i <= mid) temp.add(nums[i++]);
-        while (j <= right) temp.add(nums[j++]);
+        int[] temp = new int[ei-si+1];
+        int k = 0;
+        int i = si;
+        int j = mid+1;
 
-        for (int k = left; k <= right; k++) {
-            nums[k] = temp.get(k - left);
+        while(i<=mid && j<=ei){
+            if(nums[i]>nums[j]){
+                temp[k] = nums[j];
+                j++;
+            }else{
+                temp[k] = nums[i];
+                i++;
+            }
+            k++;
+        }
+
+        while(j<=ei){
+            temp[k++] = nums[j++];
+        }
+        while(i<=mid){
+            temp[k++] = nums[i++];
+        }
+
+        for(k = 0,i = si; k<temp.length; k++,i++){
+            nums[i] = temp[k];
         }
     }
 }
