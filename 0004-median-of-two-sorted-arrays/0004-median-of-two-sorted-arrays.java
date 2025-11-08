@@ -2,11 +2,10 @@ class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int m = nums1.length, n = nums2.length;
 
-        // Ensure nums1 is the smaller array
         if (m > n) return findMedianSortedArrays(nums2, nums1);
 
         int total = m + n;
-        int half = (total + 1) / 2; // +1 ensures correct mid for odd total
+        int half = (total + 1) / 2; 
 
         int left = 0, right = m;
 
