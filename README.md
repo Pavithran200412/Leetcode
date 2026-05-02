@@ -20,6 +20,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Pavithran200412/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2998-count-symmetric-integers](https://github.com/Pavithran200412/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pavithran200412/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pavithran200412/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -336,4 +337,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Pavithran200412/Leetcode/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pavithran200412/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
