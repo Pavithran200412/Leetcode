@@ -1,6 +1,6 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
-        int max_count = 0;
+        // int max_count = 0;
         int n = nums.length;
         int l = 0;
         int zcount = 0;
@@ -17,18 +17,31 @@ class Solution {
         //     }
         // }
 
+        // for(int r = 0; r < n; r++){
+        //     if(nums[r] == 0){
+        //         zcount++;
+        //     }
+        //     while(zcount > k){
+        //         if(nums[l] == 0){
+        //             zcount--;
+        //         }
+        //         l++;
+        //     }
+        //     max_count = Math.max(max_count, r - l + 1);
+        // }
+        // return max_count;
+
         for(int r = 0; r < n; r++){
             if(nums[r] == 0){
                 zcount++;
             }
-            while(zcount > k){
+            if(zcount > k){
                 if(nums[l] == 0){
                     zcount--;
                 }
                 l++;
             }
-            max_count = Math.max(max_count, r - l + 1);
         }
-        return max_count;
+        return n - l;
     }
 }
