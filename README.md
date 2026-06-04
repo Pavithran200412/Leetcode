@@ -75,6 +75,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pavithran200412/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Pavithran200412/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Pavithran200412/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Pavithran200412/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pavithran200412/Leetcode/tree/master/0054-spiral-matrix) |
@@ -151,6 +152,7 @@
 | [0027-remove-element](https://github.com/Pavithran200412/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pavithran200412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Pavithran200412/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Pavithran200412/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Pavithran200412/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pavithran200412/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pavithran200412/Leetcode/tree/master/0125-valid-palindrome) |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pavithran200412/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Pavithran200412/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pavithran200412/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Pavithran200412/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pavithran200412/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -223,6 +226,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pavithran200412/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Pavithran200412/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Pavithran200412/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pavithran200412/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Pavithran200412/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Pavithran200412/Leetcode/tree/master/0118-pascals-triangle) |
@@ -351,4 +355,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pavithran200412/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Pavithran200412/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
