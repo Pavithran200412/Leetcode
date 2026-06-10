@@ -113,6 +113,7 @@
 | [0907-koko-eating-bananas](https://github.com/Pavithran200412/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pavithran200412/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pavithran200412/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1314-matrix-block-sum](https://github.com/Pavithran200412/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pavithran200412/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pavithran200412/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Pavithran200412/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -304,6 +305,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Pavithran200412/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pavithran200412/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pavithran200412/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/Pavithran200412/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Pavithran200412/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -342,6 +344,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Pavithran200412/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pavithran200412/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pavithran200412/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1314-matrix-block-sum](https://github.com/Pavithran200412/Leetcode/tree/master/1314-matrix-block-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Pavithran200412/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Heap (Priority Queue)
 |  |
