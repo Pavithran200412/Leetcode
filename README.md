@@ -115,6 +115,7 @@
 | [0890-lemonade-change](https://github.com/Pavithran200412/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Pavithran200412/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pavithran200412/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pavithran200412/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pavithran200412/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1314-matrix-block-sum](https://github.com/Pavithran200412/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pavithran200412/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -148,6 +149,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Pavithran200412/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/Pavithran200412/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pavithran200412/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pavithran200412/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pavithran200412/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pavithran200412/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pavithran200412/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
